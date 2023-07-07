@@ -42,7 +42,7 @@ Essas alterações permitem que o botão "Entrar" seja habilitado somente quando
 
 - [x] O resultado final do projeto é um formulário de login que utiliza validação de dados e desabilita o botão "Entrar" até que o formulário seja preenchido corretamente. O projeto utiliza o react-hook-form em conjunto com o yup para realizar a validação do formulário. Quando o usuário preenche os campos corretamente, o botão "Entrar" é habilitado e ele pode prosseguir com o login. Caso contrário, o botão permanece desabilitado e uma mensagem de erro é exibida para indicar os problemas no preenchimento do formulário.
 
-## Para complementar fiz uma estilização no botão para quando ele estiver desabilitado poder mudar de cor.
+ Para complementar fiz uma estilização no botão para quando ele estiver desabilitado poder mudar de cor.
 
 - [x] Foram feitas alterações no componente Button  nos  arquivos index.tsx, styles.ts types.ts:
 
